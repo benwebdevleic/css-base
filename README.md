@@ -7,4 +7,4 @@ The intention of this stylesheet is to save you the tedious task of creating the
 
 This works with any other CSS Framework and promotes using your own styles to override framework styles instead of modifying the framework itself.
 
-Follow the author on twitter: <a href="http://twitter.com/benwebdevleic" target="_blank">@abe_ard</a>
+Follow the author on twitter: <a href="http://twitter.com/abe_ard" target="_blank">@abe_ard</a>
